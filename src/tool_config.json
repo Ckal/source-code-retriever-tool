@@ -1,0 +1,5 @@
+{
+    "description": "This is a tool that retrieves the source code of a given webpage. It takes the URL of the webpage, and returns the source code.",
+    "name": "source_code_scrapper",
+    "tool_class": "source_code_retriever.ScrapperTool"
+}
